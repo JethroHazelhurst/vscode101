@@ -3,3 +3,5 @@ function sayHello(name) {
 }
 
 sayHello('VS Code');
+
+// This is a new comment
